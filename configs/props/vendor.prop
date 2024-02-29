@@ -81,6 +81,9 @@ vendor.audio_hal.period_multiplier=3
 vendor.audio_hal.period_size=192
 vendor.voice.path.for.pcm.voip=true
 
+# Audio Amplifier
+ro.hardware.audio_amplifier=tas2562
+
 # APK Verity
 ro.apk_verity.mode=2
 
